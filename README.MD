@@ -9,6 +9,7 @@ This project displays various bikeshare data and calculations from 3 cities with
 The 3 cities are Chicago, New York City and Washington
 It prompts the user on which cities, which month and which day of the week to analyze.
 
+making changes to be reviewed in refactoring the code.
 ### Files used
 3 CSV files containing data of each city
 Chicago.csv
